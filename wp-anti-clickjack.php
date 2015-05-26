@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WordPress Anti-Clickjack Plugin
+ * Plugin Name: WP Anti-Clickjack
  * Plugin URI: http://drawne.com/wordpress-anti-clickjack-plugin/
  * Description: Plugin to prevent your site from being clickjacked
  * Version: 1.0.0
- * Text Domain: wp-anticlickjack
+ * Text Domain: wp-anti-clickjack
  * Author: Andy Feliciotti
  * Author URI: http://drawne.com
  */

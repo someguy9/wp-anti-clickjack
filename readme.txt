@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: someguy9
-Donate link: https://github.com/someguy9/WordPress-Anti-Clickjack-Plugin
+Donate link: https://github.com/someguy9/wp-anti-clickjack
 Tags: anti click jacking, security, Browser Frame Breaking Script
 Requires at least: 3.0.1
 Tested up to: 4.2.2
