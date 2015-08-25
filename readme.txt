@@ -4,7 +4,7 @@ Donate link: https://github.com/someguy9/wp-anti-clickjack
 Tags: anti click jacking, security, Browser Frame Breaking Script
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,9 @@ To install this plugin:
 
 
 == Changelog ==
+
+= 1.1 =
+* Bug fix causing Customizer.php to refresh constantly
 
 = 1.0 =
 * Initial Release
