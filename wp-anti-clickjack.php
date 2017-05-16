@@ -16,7 +16,7 @@ class wp_anticlickjack {
 
     public function __construct()
     {
-			add_action('wp_head', array($this,'include_anticlickjack_script'));
+      add_action('wp_head', array($this,'include_anticlickjack_script'));
       add_action('admin_head', array($this,'include_anticlickjack_script'));
       add_action('login_head', array($this,'include_anticlickjack_script'));
     }
