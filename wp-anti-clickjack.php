@@ -3,7 +3,7 @@
  * Plugin Name: WP Anti-Clickjack
  * Plugin URI: https://drawne.com/wordpress-anti-clickjack-plugin/
  * Description: Plugin to prevent your site from being clickjacked
- * Version: 1.2.0
+ * Version: 1.3.0
  * Text Domain: wp-anti-clickjack
  * Author: Andy Feliciotti
  * Author URI: https://drawne.com
