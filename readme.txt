@@ -2,9 +2,9 @@
 Contributors: someguy9
 Donate link: https://github.com/someguy9/wp-anti-clickjack
 Tags: anti click jacking, security, Browser Frame Breaking Script, clickjacking
-Requires at least: 3.0.1
-Tested up to: 4.8.0
-Stable tag: 1.3.0
+Requires at least: 4.0.0
+Tested up to: 4.8.9
+Stable tag: 1.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,9 @@ To install this plugin:
 
 
 == Changelog ==
+
+= 1.4.0 =
+* Tested up to 4.8.9 and fixed conflicts with Elementor (if you are having an issue with a specific page builder please contact me)
 
 = 1.3.0 =
 * Tested up to 4.8.0
